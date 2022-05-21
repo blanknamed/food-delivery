@@ -1,3 +1,3 @@
-export * from './hooks'
-export {store} from './store'
-export type {AppDispatch,AppThunk,RootState} from './store'
+export * from './hooks';
+export { store } from './store';
+export type { AppDispatch, AppThunk, RootState } from './store';
