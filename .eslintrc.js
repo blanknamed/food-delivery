@@ -25,7 +25,6 @@ module.exports = {
     'testing-library',
   ],
   rules: {
-
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/indent': ['error', 2, { 'ImportDeclaration': 2 }],
     '@typescript-eslint/no-use-before-define': [
