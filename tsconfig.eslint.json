@@ -6,6 +6,6 @@
     "src/**/*.d.ts",
     "src/**/*.test.tsx",
     "src/**/*.styled.tsx",
-    ".eslintrc.js"
+    "*.js"
   ]
 }
